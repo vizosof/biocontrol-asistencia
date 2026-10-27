@@ -1,0 +1,22 @@
+======================================================
+TRABAJO PRÁCTICO - BIOCONTROL
+Alumno: Jose Luis Vizoso Feal
+Materia: Práctica Profesional - UBA Ingeniería de Sistemas
+======================================================
+
+1. ENLACE AL VIDEO DEMOSTRATIVO :
+https://youtu.be/hw5ypF3z04g
+
+2. CREDENCIALES DE ACCESO NECESARIAS:
+- Usuario: admin
+- Contraseña: 1234
+
+3. INSTRUCCIONES PARA EJECUTAR EL PROYECTO LOCALMENTE:
+1. Tener instalado Python 3.11 o superior.
+2. Abrir una terminal en la carpeta raíz del proyecto.
+3. Instalar dependencias: pip install -r requirements.txt
+4. Ejecutar el sistema: python main.py
+
+4. ACLARACIONES SOBRE LA BASE DE DATOS:
+- El script completo de la base de datos (.sql) se encuentra en la carpeta: models/schema.sql
+- El sistema cuenta con scripts de inserción de datos de prueba (utils/seed.py y utils/seed_datos_prueba.py) que ya fueron ejecutados para cargar 5 empleados, marcajes y el administrador.
